@@ -10,14 +10,14 @@ email: contact@lancastersteel.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lancastersteel.com" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/Lancaster_steel
+  #twitter: https://twitter.com/Lancaster_steel
 
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
-  instagram: http://instagram.com/lancastersteel
+  #instagram: http://instagram.com/lancastersteel
   #youtube-square:
   #spotify:
   #stack-overflow:
@@ -48,7 +48,7 @@ social:
   #ils:
   #forumbee:
   #tripadvisor:
-  amazon: http://amazon.com/whiskey
+  amazon: http://amazon.com/Whiskey-Glass-Fashioned-10oz-Lowball/dp/B01DYPXNWE/ref=sr_1-34?ie=UTF8&qid=1463762399&sr=8-34&keywords=stainless+steel+whiskey+tumbler
 
 # Build settings
 markdown: kramdown
