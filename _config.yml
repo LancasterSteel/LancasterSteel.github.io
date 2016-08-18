@@ -17,7 +17,7 @@ social:
   #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
-  #instagram: http://instagram.com/lancastersteel
+  instagram: http://instagram.com/lancastersteel
   #youtube-square:
   #spotify:
   #stack-overflow:
@@ -49,7 +49,7 @@ social:
   #forumbee:
   #tripadvisor:
   amazon: http://amazon.com/Whiskey-Glass-Fashioned-10oz-Lowball/dp/B01DYPXNWE/ref=sr_1-34?ie=UTF8&qid=1463762399&sr=8-34&keywords=stainless+steel+whiskey+tumbler
-  Pinterest: https://www.pinterest.com/lancastersteel/
+  pinterest: https://www.pinterest.com/lancastersteel/
 # Build settings
 markdown: kramdown
 #sass:
