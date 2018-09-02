@@ -5,7 +5,7 @@
 title: Lancaster Steel
 description: Classic Design. Modern Craftsmanship.
 owner: M&A Group # or company name
-first_published: 2016 # if migrating another site, the year of your first publish
+first_published: 2018 # if migrating another site, the year of your first publish
 email: support@lancastersteel.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lancastersteel.com" # the base hostname & protocol for your site
